@@ -1,0 +1,3 @@
+[submodule "EulerProblems_CSharp"]
+	path = EulerProblems_CSharp
+	url = git@github.com:CBernjus/EulerProblems_CSharp.git
